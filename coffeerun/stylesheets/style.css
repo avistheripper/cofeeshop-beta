@@ -1,0 +1,16 @@
+body {
+	background: url("crun.jpg");
+}
+.panel {
+	background: #fff8;
+
+}
+
+h1{
+	font-family: 'Gloria Hallelujah', cursive;
+	color: white;
+}
+.container{
+font-family: 'Questrial', sans-serif;
+	font-size: 18px;
+}
